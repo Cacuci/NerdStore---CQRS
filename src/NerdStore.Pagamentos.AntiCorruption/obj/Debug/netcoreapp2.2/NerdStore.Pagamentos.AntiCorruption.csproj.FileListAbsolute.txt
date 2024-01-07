@@ -1,0 +1,15 @@
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.deps.json
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.pdb

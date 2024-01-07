@@ -1,0 +1,13 @@
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.deps.json
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.AssemblyReference.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CopyComplete
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb

@@ -1,0 +1,15 @@
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.deps.json
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\ti\Documents\GitHub\NerdStore - CQRS\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
